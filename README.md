@@ -5,6 +5,7 @@
 The project source includes function code and supporting resources:
 
 - `function` - A Golang function.
+- `lib` - A Golang library.
 - `template.yml` - An AWS CloudFormation template that creates an application.
 - `1-create-bucket.sh`, `2-deploy.sh`, etc. - Shell scripts that use the AWS CLI to deploy and manage the application.
 
